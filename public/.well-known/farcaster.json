@@ -1,0 +1,25 @@
+{
+  "frame": {
+    "version": "1",
+    "name": "BasePulse",
+    "subtitle": "by Gonor",
+    "description": "Track Base ecosystem tokens in Real Time",
+    "iconUrl": "https://gonor-basepulse.vercel.app/icon.png",
+    "homeUrl": "https://gonor-basepulse.vercel.app",
+    "imageUrl": "https://gonor-basepulse.vercel.app/og-image.png",
+    "splashImageUrl": "https://gonor-basepulse.vercel.app/splash.png",
+    "splashBackgroundColor": "#0052FF",
+    "primaryCategory": "finance",
+    "tagline": "Live prices"
+  },
+  "accountAssociation": {
+    "header": "",
+    "payload": "",
+    "signature": ""
+  },
+  "baseBuilder": {
+    "allowedAddresses": [
+      "0xb29B88924eA97f8fD92959292ce7fB48B629CBc3"
+    ]
+  }
+}
