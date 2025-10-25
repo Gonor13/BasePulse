@@ -1,20 +1,19 @@
 {
+  "accountAssociation": {
+    "header": "eyJmaWQiOjMzODQ1MSwidHlwZSI6ImF1dGgiLCJrZXkiOiIweEMzQTBDODVENjEzRTEwZDIyNUVjMjk5N0MyODZCODA4NzhCYUVhNjMifQ",
+    "payload": "eyJkb21haW4iOiJiYXNlcHVsc2UtdmVyY2VsLmFwcCJ9",
+    "signature": "8ll5OfPd5b+KxJalOEd4g4UIaYx3lRJHmwCYvxYmqINjO5etdY5BmP31QcjsFR4EEKR0GA3J/6ifkXS2Lbi6Hxw="
+  },
   "miniapp": {
     "name": "BasePulse",
-    "version": "1",
-    "iconUrl": "https://base-pulse.vercel.app/icon.png",
-    "homeUrl": "https://base-pulse.vercel.app",
-    "imageUrl": "https://base-pulse.vercel.app/image.png",
-    "splashImageUrl": "https://base-pulse.vercel.app/splash.png",
-    "splashBackgroundColor": "#0052FF",
-    "subtitle": "Track crypto on Base",
-    "description": "Real-time Base ecosystem price tracker",
+    "version": "1.0.0",
+    "homeUrl": "https://basepulse-xi.vercel.app",
+    "iconUrl": "https://basepulse-xi.vercel.app/icon.png",
+    "imageUrl": "https://basepulse-xi.vercel.app/og-image.png",
+    "description": "Track real-time crypto on Base",
+    "splashImageUrl": "https://basepulse-xi.vercel.app/splash.png",
+    "splashBackgroundColor": "#0a0a0a",
     "primaryCategory": "finance"
-  },
-  "accountAssociation": {
-    "header": "eyJmaWQiOjMzODQ1MSwidHlwZSI6ImN1c3RvZHkiLCJrZXkiOiIweDc4NDRENDM0NzMzOTM1OTRENWQwM2NkZDUzRDU0RDdGY0RmMzk5RTUifQ",
-    "payload": "eyJkb21haW4iOiJiYXNlLXB1bHNlLnZlcmNlbC5hcHAifQ",
-    "signature": "MHgwYTg0Y2RkOGIwOWEzNmI1Yjc4ZGY0YmU4NjQxODk5MWE1OWYzYzk0ZDM3ZTNlOWJkZWVkMzU5ZTUzNDA0ZTUxNjRlNWJjMzM0MTAwMGE1ZjZjMzY2ZDYxNGFlYmE3MjdhYzE2Njc0MWRiOTcxOTRlNmE4MjNkZjExYmVkYjYxMDFi"
   },
   "baseBuilder": {
     "ownerAddress": "0xb29B88924eA97f8fD92959292ce7fB48B629CBc3"
